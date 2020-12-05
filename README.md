@@ -17,4 +17,4 @@ Currently, I am looking for a full-time role in Data Science, Machine Learning o
 ### How to reach me 📱
 Known on internet as [**rowhitswami**](https://www.google.com/search?q=vishalvanpariya) 
 
-[<img target="_blank" src="https://img.icons8.com/cotton/64/000000/whatsapp--v4.png"/>](https://wa.me/919898626431) [<img target="_blank" src="https://img.icons8.com/doodle/64/000000/skype--v1.png"/>](https://join.skype.com/invite/gjMmJnhs4hCf) [<img target="_blank" src="https://img.icons8.com/doodle/64/000000/linkedin-circled.png"/>](https://www.linkedin.com/in/vishalvanpariya/) [<img target="_blank" src="https://www.kaggle.com/static/images/site-logo.png"/>](https://www.kaggle.com/vishalvanpariya)
+[<img target="_blank" src="https://img.icons8.com/cotton/64/000000/whatsapp--v4.png"/>](https://wa.me/919898626431) [<img target="_blank" src="https://img.icons8.com/doodle/64/000000/skype--v1.png"/>](https://join.skype.com/invite/gjMmJnhs4hCf) [<img target="_blank" src="https://img.icons8.com/doodle/64/000000/linkedin-circled.png"/>](https://www.linkedin.com/in/vishalvanpariya/)
