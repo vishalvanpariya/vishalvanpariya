@@ -1,16 +1,20 @@
-### Hi there 👋
+### Hi there 👋🏻 
+I’m a Information Technology Engineering graduate of 2020 batch. I come with an extensive experience of working with different technologies including App Development,Web Development, Data Science, Machine Learning and Deep Learning.
 
-<!--
-**vishalvanpariya/vishalvanpariya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+In the past, I have worked with [**Balnccare**](https://www.balnccare.com/) as a App developer Intern. I am Currently working at [**Rtbdemand**](http://rtbdemand.com/) as a Softaware Developer.
 
-Here are some ideas to get you started:
+Currently, I am looking for a full-time role in Data Science, Machine Learning or related field. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Things I'm good at :fire:
+**Languages:**  Python, SQL, Java, PHP, HTML, CSS, JavaScript, Kotlin.
+
+**Framework:** Amp Framework.
+
+**Libraries & Tools:** AWS EC2, NumPy, Pandas, Scikit-Learn, Matplotlib, Keras, NLTK, Tensorflow, Seaborn.
+
+**Data Analysis:** Exploratory Data Analysis, Natural Language Processing, Image Processing, Ensemble Methods, Strong Statistical Foundation, Model Development & Evaluation Metrics, Data Visualization
+
+### How to reach me 📱
+Known on internet as [**rowhitswami**](https://www.google.com/search?q=vishalvanpariya) 
+
+[<img target="_blank" src="https://img.icons8.com/cotton/64/000000/whatsapp--v4.png"/>](https://wa.me/919898626431) [<img target="_blank" src="https://img.icons8.com/doodle/64/000000/skype--v1.png"/>](https://join.skype.com/invite/gjMmJnhs4hCf) [<img target="_blank" src="https://img.icons8.com/doodle/64/000000/linkedin-circled.png"/>](https://www.linkedin.com/in/vishalvanpariya/) [<img target="_blank" src="https://www.kaggle.com/static/images/site-logo.png"/>](https://www.kaggle.com/vishalvanpariya)
