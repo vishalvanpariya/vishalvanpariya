@@ -1,5 +1,5 @@
 ### Hi there 👋🏻 
-I’m a Information Technology Engineering graduate of 2020 batch. I come with an extensive experience of working with different technologies including App Development,Web Development, Data Science, Machine Learning and Deep Learning.
+I’m a Information Technology Engineering graduate of 2019 batch. I come with an extensive experience of working with different technologies including App Development,Web Development, Data Science, Machine Learning and Deep Learning.
 
 In the past, I have worked with [**Balnccare**](https://www.balnccare.com/) as a App developer Intern. I am Currently working at [**Rtbdemand**](http://rtbdemand.com/) as a Softaware Developer.
 
