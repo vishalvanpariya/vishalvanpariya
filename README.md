@@ -15,6 +15,6 @@ Currently, I am looking for a full-time role in Data Science, Machine Learning o
 **Data Analysis:** Exploratory Data Analysis, Natural Language Processing, Image Processing, Ensemble Methods, Strong Statistical Foundation, Model Development & Evaluation Metrics, Data Visualization
 
 ### How to reach me 📱
-Known on internet as [**rowhitswami**](https://www.google.com/search?q=vishalvanpariya) 
+Known on internet as [**vishalvanpariya**](https://www.google.com/search?q=vishalvanpariya) 
 
 [<img target="_blank" src="https://img.icons8.com/cotton/64/000000/whatsapp--v4.png"/>](https://wa.me/919898626431) [<img target="_blank" src="https://img.icons8.com/doodle/64/000000/skype--v1.png"/>](https://join.skype.com/invite/gjMmJnhs4hCf) [<img target="_blank" src="https://img.icons8.com/doodle/64/000000/linkedin-circled.png"/>](https://www.linkedin.com/in/vishalvanpariya/)
