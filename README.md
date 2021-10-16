@@ -7,26 +7,12 @@ Currently, I am looking for a full-time role in Data Science, Machine Learning o
 
 ### Things I'm good at :fire:
 
-**Skills**
-•	Exploratory Data Analysis	
-•	Machine Learning	
-•	Deep Learning
-•	Probability and Statistics	
-•	Linear Algebra	
-•	Data preprocessing
-•	Feature Engineering	
-•	Programming	
-•	Algorithm Design
+**Skills**:
+
+Exploratory Data Analysis, Machine Learning, Deep Learning, Probability and Statistics, Linear Algebra, Data preprocessing, Feature Engineering, Programming, Algorithm Design
 
 
-**Programming Languages**
-•	Python	
-•	SQL	
-•	AWS-EC2
-•	Tensorflow	
-•	Java	
-•	PHP
-•	Javascript
+**Programming Languages**:Python, SQL, AWS-EC2, Tensorflow, Java, PHP, Javascript
 
 ### How to reach me 📱
 Known on internet as [**vishalvanpariya**](https://www.google.com/search?q=vishalvanpariya) 
