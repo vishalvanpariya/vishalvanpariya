@@ -14,7 +14,4 @@ Exploratory Data Analysis, Machine Learning, Deep Learning, Probability and Stat
 
 **Programming Languages**:Python, SQL, AWS-EC2, Tensorflow, Java, PHP, Javascript
 
-### How to reach me 📱
-Known on internet as [**vishalvanpariya**](https://www.google.com/search?q=vishalvanpariya) 
 
-[<img target="_blank" src="https://img.icons8.com/cotton/64/000000/whatsapp--v4.png"/>](https://wa.me/919898626431) [<img target="_blank" src="https://img.icons8.com/doodle/64/000000/skype--v1.png"/>](https://join.skype.com/invite/gjMmJnhs4hCf) [<img target="_blank" src="https://img.icons8.com/doodle/64/000000/linkedin-circled.png"/>](https://www.linkedin.com/in/vishalvanpariya/)
